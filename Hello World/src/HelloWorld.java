@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World!!");
 		System.out.println("World's End Dancehall");
 		System.out.println("Hot fix world ^^^");
+		System.out.println("My world haven!!");
 	}
 }
